@@ -80,7 +80,7 @@ endif()
 
 if(BUILD_EXAMPLES)
     add_subdirectory(examples)
-    add_subdirectory(tools)
+    #add_subdirectory(tools)
 endif()
 
 if(BUILD_UNIT_TESTS)

@@ -1,5 +1,5 @@
 # You must include me with -DCMAKE_TOOLCHAIN_FILE=roborio_toolchain.cmake
-set(Year 2019)
+set(Year 2020)
 
 set(ToolchainDir $ENV{HOME}/.gradle/toolchains/frc/${Year}/roborio)
 set(ToolchainName arm-frc${Year}-linux-gnueabi)
